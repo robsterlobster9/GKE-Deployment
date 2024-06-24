@@ -1,0 +1,2 @@
+export CODACY_PROJECT_TOKEN=4a623f8e76494dfea8febdc2d6905022
+bash <(curl -Ls https://coverage.codacy.com/get.sh)
